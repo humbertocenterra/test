@@ -1,2 +1,2 @@
 # test
-Basic test repo
+This is a sandbox repository.
